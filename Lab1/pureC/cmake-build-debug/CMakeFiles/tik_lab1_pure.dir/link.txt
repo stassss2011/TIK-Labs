@@ -1,0 +1,1 @@
+/usr/bin/cc -lm   CMakeFiles/tik_lab1_pure.dir/main.c.o  -o tik_lab1_pure 

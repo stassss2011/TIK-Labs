@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tik_lab1.dir/main.cpp.o  -o tik_lab1 

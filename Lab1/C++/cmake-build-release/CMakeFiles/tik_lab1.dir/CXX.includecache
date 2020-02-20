@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stas/CLionProjects/tik_lab1/main.cpp
+cmath
+-
+iostream
+-
+fstream
+-
+string
+-
+cmath
+-
+vector
+-
+chrono
+-
+iomanip
+-
+
